@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EssohCod
+- 👋 Hi, I’m @EssohCode
 - 👀 I’m interested in working with you
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on website design and software development projects
