@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have 3 years experience in the industry and particularly skilled in building web applications and solving complex problems. Experienced in various programming languages and frameworks, love creating efficient, user-friendly solutions. Passionate about continuous learning and innovation, and I appreciate collaborative environments, as to allow me contribute to the success of projects with other technical expertise and creative minds in the industry.
+I have 3+ years experience in the industry and particularly skilled in building web applications and solving complex problems. Experienced in various programming languages and frameworks, love creating efficient, user-friendly solutions. Passionate about continuous learning and innovation, and I appreciate collaborative environments, as to allow me contribute to the success of projects with other technical expertise and creative minds in the industry.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [nessoh1007@gmail.com](mailto:nessoh1007@gmail.com)
