@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nsikan Essoh
 ====================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 I have 3+ years experience in the industry and particularly skilled in building web applications and solving complex problems. Experienced in various programming languages and frameworks, love creating efficient, user-friendly solutions. Passionate about continuous learning and innovation, and I appreciate collaborative environments, as to allow me contribute to the success of projects with other technical expertise and creative minds in the industry.
